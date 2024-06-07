@@ -18,11 +18,10 @@
 
 # --------
 
-# it checkout  -b list_examples
+# it checkout -b list_examples
 
+### ---
 
-
-
-
-
-
+git add .
+git commit -m 'added the examples of list'
+git push -u origin list_examples
